@@ -1,4 +1,4 @@
-# 
+# Seguro AI Meeting Notes Summarizer flujo de trabajo. Con IA generativa y procesamiento en tiempo real — optimizado para el máximo rendimiento.
 
 
 
